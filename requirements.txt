@@ -1,0 +1,12 @@
+Flask
+gpt_index==0.6.18
+ipython
+langchain
+llama_index==0.6.18
+pandas
+tabulate
+BeautifulSoup4
+pdf2image
+llama-hub
+Flask-BasicAuth
+slack_bolt
